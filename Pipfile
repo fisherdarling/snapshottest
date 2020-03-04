@@ -6,8 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-snapshottest = {editable = true,path = "."}
-setuptools = "*"
+snapshottest = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.7"
